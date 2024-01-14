@@ -1,0 +1,17 @@
+well,we dont have acess to main code..
+
+soo,we have to open this .exe with ida so we can see your code in asm
+
+when analizyng the code,we saw a _read function,this function doesnt have buffer limit!
+
+then now we can break the EIP ;)
+
+but first,we need to find the function with our flag bro.
+on IDA we saw the "ret2win32" function,ITS OUR FLAG!
+your adress is: 08048632
+
+then, we break the EIP with the function adress and we can capture de flag \o/
+
+
+adress: 08048632
+ret: 44bytes

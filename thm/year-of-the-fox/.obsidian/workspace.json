@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "0dfbce5b9a85f3b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "31a773f92d8d1384",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb346e6a7326ebc9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "312ce5b93ef98161",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb814d146e8ea435",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03705044659c9eed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "51c1ade26c918ad0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a7df0b1ce3071a0b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1fc694f6fcc7081d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2252c44918858588",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7422db6667bf0cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4771af92ddc429e8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d7aa179129a773b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "265cd2bd63a84b17",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "03705044659c9eed",
+  "lastOpenFiles": [
+    "Untitled",
+    "Untitled.canvas",
+    "2023-10-22.md",
+    "README.md",
+    "attachments/Pasted image 20231020052653.png",
+    "attachments/Pasted image 20231020051437.png",
+    "attachments/Pasted image 20231020051106.png",
+    "attachments/Pasted image 20231020051016.png",
+    "attachments/Pasted image 20231020050215.png",
+    "attachments/Pasted image 20231019123907.png",
+    "attachments/Pasted image 20231019111634.png",
+    "attachments/Pasted image 20231019111541.png",
+    "attachments/Pasted image 20231018092706.png",
+    "hash2",
+    "hash",
+    "attachments/Pasted image 20231018064225.png",
+    "submit-js/stage3-submit.js",
+    "submit-js/stage2-submit.js",
+    "submit-js/stage1-submit.js",
+    "submit-js/stage0-submit.js",
+    "submit-js/submit.js",
+    "submit-js",
+    "js/submit.js",
+    "js",
+    "js/JS - Submit.js.md",
+    "Untitled.md"
+  ]
+}

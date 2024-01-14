@@ -1,0 +1,14 @@
+well, first we need to saw the main code,when we do that, is possible see three var and four functions!
+
+i think there are two ways to break this program!
+
+first let me explain what we need to do!
+
+we need to do become all var's to true and call the flag function!
+
+way1 -> we make the all three vars to true adding 1 three times
+way1 = buf + call_gets@plt + ret(display_flag_function) + var1
+
+
+way2 -> way2 is most hard to way1,because we need to enter in all functions and manipulate the vars while that!
+i think this might not be possible,so i wont try,but in future you can try if you want
