@@ -1,5 +1,6 @@
 {
   "attachmentFolderPath": "./attachments",
   "trashOption": "none",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheck": true
 }
