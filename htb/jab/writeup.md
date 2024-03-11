@@ -8,7 +8,7 @@ $ sudo vim /etc/hosts
 
 starting your vpn and add the machine's ip address in your host file to make it easier to remember. 
 
-![[attachments/Pasted image 20240308163722.png]]
+![](attachments/Pasted%20image%2020240308163722.png)
 
 starting a nmap scan, let me explain the flag that i'm using here:
 
@@ -32,10 +32,10 @@ After this scan is good to make another to scan through all ports using the -p- 
 
 the result of our scan is here and let's see.
 
-![[attachments/Pasted image 20240308165550.png]]
+![](attachments/Pasted%20image%2020240308165550.png)
 
 there is a lot of services that i haven't ever seen in my life so let me do some search about them, but while i'm doing this i'm gonna let enum4linux running to enumerate the netbios services available. I think this machine will take time but it's good reason to learn something new.
-![[attachments/Pasted image 20240308190113.png]]
+![](attachments/Pasted%20image%2020240308190113.png)
 
 
 

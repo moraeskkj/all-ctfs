@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#timework",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,8 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "911cf9d6263c9b34",
+  "active": "4af35a343f4c6e07",
   "lastOpenFiles": [
+    "web/timekorp/attachments/Pasted image 20240311134615.png",
     "web/timekorp/attachments/Pasted image 20240309225330.png",
     "web/timekorp/attachments/Pasted image 20240309225045.png",
     "web/timekorp/attachments/Pasted image 20240309224937.png",
@@ -162,7 +164,6 @@
     "web/flag_command/attachments/Pasted image 20240309190502.png",
     "web/flag_command/attachments/Pasted image 20240309183801.png",
     "web/flag_command/attachments/Pasted image 20240309183737.png",
-    "web/flag_command/attachments",
-    "Pasted image 20240309183659.png"
+    "web/flag_command/attachments"
   ]
 }

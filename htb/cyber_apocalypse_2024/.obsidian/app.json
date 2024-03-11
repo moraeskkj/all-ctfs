@@ -2,5 +2,6 @@
   "newFileLocation": "root",
   "attachmentFolderPath": "./attachments",
   "newLinkFormat": "relative",
-  "promptDelete": false
+  "promptDelete": false,
+  "useMarkdownLinks": true
 }
