@@ -116,6 +116,12 @@ The last part now is to make a privilege escalation and get the root flag, I'm n
 
 The trick here is that xander user can run a binary called usage_management with sudo privileges. Basically this program has three options(you can rev it or debug it to understand more), backup all files inside /var/www/html/ in a zip file, backup all SQL data using sqldump and the thirty option does nothing(really), it just print out texting saying it did reset the password but it's a lie! What you need to do is create a file inside the /var/www/html/ directory and link it with the root flag inside /root/ directory so when you run usage_management again and use the option to backup the project data, it will run with sudo privileges and be able to read the flag in /root/ that is linked with the file that you've created :). 
 
-cd /var/www/html
-touch @root.txt
-ln -s /root/root.txt root.txt
+```bash
+$ cd /var/www/html
+$ touch @root.txt
+$ ln -s /root/root.txt root.txt
+$ sudo usage_management
+// choose the first option and the root flag should pop up on the terminal due some error with 7zip
+```
+
+Well, this machine was simple to exploit but not so simple to figure out where you must work on. I guess I just need to get used to Hackthebox machines instead of the thm machines, I keep up stuck for days even with the easy ones. If you have any question, feel free to reach me on any social media available on my profile.
