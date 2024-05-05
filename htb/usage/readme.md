@@ -1,3 +1,5 @@
+## Usage - Easy Linux Machine from Hackthebox
+
 hello :D
 
 I have already did this machine before but somehow my VM just died and i was not able to get back the write-up that i was making ;(. I'm gonna make this machine again and trying to recreate the write-up that i have lost, i hope i can remember my thinking flow when i was in my first try. 
