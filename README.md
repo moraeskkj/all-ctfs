@@ -1,9 +1,9 @@
 ### all-ctfs-i-made
 
-well,here are every(or almost it) ctfs rooms that i found interesting to make since i started to studying cybersecurity. some challenges have not an readme.txt or doesn't have any explanation because i probaly had made them a long time ago,but the most have it ;)
+Well, here are all (or almost all) CTF rooms that I found interesting to create since I started studying cybersecurity. Some challenges don't have a readme.txt or any explanation because I probably made them a long time ago, but most do ;)
 
-probaly every readme will have the passwords,flags,spoilers and something like this because i just do it to document the thing that i'm learning....if you just want an explanation without spoilers or something it is not for you
+Probably every readme will include passwords, flags, spoilers, and things like that because I just use it to document what I'm learning. If you only want an explanation without spoilers or anything like that, this isn't for you.
 
-forgive me for the bad explanations and my english, i'm trying to improve this :)
+Forgive me for the bad explanations and my English; I'm trying to improve :)
 
-if you need any help my instagram is pinned to my profile :)
+If you need any help, my Instagram is pinned to my profile :)
